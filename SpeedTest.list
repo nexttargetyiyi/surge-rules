@@ -1,6 +1,6 @@
-connectivitycheck.gstatic.com
-cp.cloudflare.com
-speed.cloudflare.com
-www.speedtest.net
-msftconnecttest.com
-apple.com
+DOMAIN,connectivitycheck.gstatic.com
+DOMAIN,cp.cloudflare.com
+DOMAIN,speed.cloudflare.co
+DOMAIN,www.speedtest.net
+DOMAIN,msftconnecttest.com
+DOMAIN,apple.com
